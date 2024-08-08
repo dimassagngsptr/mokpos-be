@@ -1,0 +1,14 @@
+tmp/
+vendor/
+node_modules/
+dist/
+build/
+main
+.vscode/
+.idea/
+.env
+.env.local
+.env.production
+*.exe
+*.log
+*.out
